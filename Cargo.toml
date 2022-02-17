@@ -1,0 +1,18 @@
+[package]
+name = "ground_risk"
+version = "0.1.0"
+authors = ["undefiened <undefiened@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+itertools = "0.10.1"
+ordered-float = "2.8.0"
+#png = "0.17.1"
+image = "0.23.14"
+priority-queue = "1.2.0"
+hashbrown = "0.11.2"
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+bresenham = "0.1.1"
