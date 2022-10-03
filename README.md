@@ -4,7 +4,7 @@ This code has been partially used in papers [1] and [2].
 
 Please note that this code is shared as a proof of concept and is NOT intended for any professional use. This code was written to test our approach and algorithms and it may contain mistakes, inefficient parts. It was tailored specifically to our use-case. This code is NOT shared to serve as a general tool or as a reference implementation. Feel free to use this code as an inspiration or if particular pieces are interesting for you, but I would not recommend using it as a basis for anything more serious. It would be easier to start from scratch.
 
-Please contact the author if you have any questions, would like to receive any explanations, hear the presentation of the papers, discuss anything, and so on.
+There is no documentation and comments in code are poor. Please contact the author if you have any questions, would like to receive any explanations, hear the presentation of the papers, discuss anything, and so on.
 
 
 # License
